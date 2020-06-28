@@ -41,7 +41,7 @@ information about a Flatpak application. An example::
   GPGKey=mQINBFlD2sABEADsiUZUO...
 
 As can be seen, the file includes the ID of the application and the location
-of the repository that contains it, as well a link to information about
+of the repository that contains it, as well as a link to information about
 the repository that provides the application's runtime. ``.flatpakref``
 files therefore contain all the information needed to install an application.
 
