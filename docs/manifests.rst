@@ -36,7 +36,7 @@ For example, the GNOME Dictionary manifest includes:
   sdk: org.gnome.Sdk
   command: gnome-dictionary
 
-Specifying a runtime and runtime version allows that the runtime that is
+Specifying a runtime and runtime version allows the runtime that is
 needed by your application to be automatically installed on users' systems.
 
 File renaming
